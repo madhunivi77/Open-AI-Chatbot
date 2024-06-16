@@ -1,6 +1,6 @@
 # OpenAI Chatbot
 
-This AI Chatbot is built using OpenAI's GPT-3.5-turbo model. The chatbot interacts with users by generating responses to their queries. This project aims to demonstrate how to integrate OpenAI's API into a Python application.
+This AI Chatbot is built using OpenAI's GPT models. The chatbot interacts with users by generating responses to their queries. This project aims to demonstrate how to integrate OpenAI's API into a Python application.
 
 
 ## Installation
